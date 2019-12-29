@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Perceptron</string>
+    <string name="test_button">Tester</string>
+    <string name="petal_length_label">Longueur Petal</string>
+    <string name="sepal_length_label">Longueur Sepal</string>
+    <string name="test_modal">The modal perfection is : </string>
+</resources>
